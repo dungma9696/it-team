@@ -218,7 +218,7 @@ const projects = [
       // },
     ],
     image: foodnetwork,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://www.foodnetwork.com/',
   },
   {
     name: 'Rachael Ray',
@@ -238,7 +238,7 @@ const projects = [
       // },
     ],
     image: rachaelray,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://rachaelray.com/',
   },
   // {
   //   name: 'Trip Guide',
