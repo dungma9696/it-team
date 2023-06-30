@@ -50,11 +50,10 @@ const About = () => {
         We are a skilled software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js, and NextJS.
         Also we are extremely familiar with backend languages like PhP, .NET. We
-        can also develop mobile web applications with React Native language” sau
-        đó mới đến đoạn I’m a quick learner. We are a quick learner and
-        collaborate closely with clients to create efficient, scalable, and
-        user-friendly solutions that solve real-world problems. Let's work
-        together to bring your ideas to life!
+        can also develop mobile web applications with React Native language. We
+        are a quick learner and collaborate closely with clients to create
+        efficient, scalable, and user-friendly solutions that solve real-world
+        problems. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
